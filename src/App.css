@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.profile-list, .admin-panel {
+  margin: 20px;
+}
+
+.profile-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.map-view, .profile-details {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
